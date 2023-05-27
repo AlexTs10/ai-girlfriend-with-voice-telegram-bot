@@ -1,7 +1,7 @@
 # telegram-bot
 Simple Telegram Bot using GPT.
-need: bot api from telegram
-      openai api key
+
+need: bot api from telegram, openai api key.
 
 Todo:
 1 - add chat history to api call.
