@@ -1,0 +1,8 @@
+openai
+pymongo
+telegram
+python-telegram-bot
+langchain
+python-dotenv
+pydantic
+pydub
