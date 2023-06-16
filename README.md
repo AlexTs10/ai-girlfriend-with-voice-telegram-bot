@@ -1,7 +1,5 @@
 # AI-Girlfriend Bot 🤖❤️
 
-![AI-Girlfriend Banner](banner_image_url_here)
-
 AI-Girlfriend Bot is a simple application based on OpenAI GPT-4 that simulates a conversation with an AI-powered virtual girlfriend. This is a simpler reproduction of the famous (and somewhat creepy) [AI Girlfriend featured on Fortune](https://fortune.com/2023/05/09/snapchat-influencer-launches-carynai-virtual-girlfriend-bot-openai-gpt4/).
 
 ## Features 🌟
