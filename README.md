@@ -21,11 +21,11 @@ AI-Girlfriend Bot is a simple application based on OpenAI GPT-4 that simulates a
 
 ### Setup & Running
 1. Clone the repository:
-2. Navigate to the cloned directory and install the required Python packages: pip install -r requirements.txt
+2. Navigate to the cloned directory and install the required Python packages: ```pip install -r requirements.txt```
 3. Create a Telegram bot and obtain the bot token.
 4. Set up a MongoDB database (you can use the free tier). Name it as you wish and create two collections: `users`, and `message_history`. Ensure network access is enabled for all IPs.
 5. Obtain API keys from OpenAI, ElevenLabs, MongoDB, and Stripe (for testing) and populate them in the provided `.env` template file. After filling in the keys, rename the file to `.env`.
-6. Run the bot: python3 telegram_bot.py
+6. Run the bot: ```python3 telegram_bot.py```
 
 
 ## How it Works 🛠️
@@ -41,10 +41,7 @@ AI-Girlfriend Bot is a simple application based on OpenAI GPT-4 that simulates a
 5. **Sending Audio Response:** The audio is sent to the user as a response through Telegram.
 
 ## Contributing 🤝
-We welcome contributions! Please read our contributing guide for details on how to get started.
-
-## License 📄
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+We welcome contributions!
 
 ## Acknowledgements 🙏
 - OpenAI for GPT-4
