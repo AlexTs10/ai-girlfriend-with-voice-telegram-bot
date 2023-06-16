@@ -1,5 +1,3 @@
-# telegram bot 6200835754:AAHY4CKjA1pYl6w6lV6h0LeEGPm80wQm7oY
-
 import logging
 from telegram import (Update, InlineKeyboardButton, InputFile,
                       InlineKeyboardMarkup, LabeledPrice) 
