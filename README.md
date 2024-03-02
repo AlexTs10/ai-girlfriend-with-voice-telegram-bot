@@ -22,7 +22,7 @@ AI-Girlfriend Bot is a simple application based on OpenAI GPT-4 that simulates a
 2. Navigate to the cloned directory and install the required Python packages: ```pip install -r requirements.txt```
 3. Create a Telegram bot and obtain the bot token.
 4. Set up a MongoDB database (you can use the free tier). Name it as you wish and create two collections: `users`, and `message_history`. Ensure network access is enabled for all IPs.
-5. Obtain API keys from OpenAI, ElevenLabs, MongoDB, and Stripe (for testing) and populate them in the provided `.env` template file. After filling in the keys, rename the file to `.env`.
+5. Obtain API keys from OpenAI, ElevenLabs, MongoDB, and Stripe (for testing) and write them in a `.env` file that you create.
 6. Run the bot: ```python3 telegram_bot.py```
 
 
